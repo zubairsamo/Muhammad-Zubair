@@ -1,5 +1,5 @@
 <p>
-  😄 Muhammad Zubair | 📍 Karachi, Pakistan | 🌱 Data Analyst
+  😄 Muhammad Zubair | 📍 Karachi, Pakistan | 🌱 Data Science Enthusiast
 </p>
 
 [![Zubair's github stats](https://github-readme-stats.vercel.app/api?username=zubairsamo&show_icons=true&count_private=true&include_all_commits=true&title_color=a0c334&icon_color=deff8b&text_color=deff8b&bg_color=120,212121,6252C2)](https://github.com/zubairsamo)
