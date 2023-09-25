@@ -18,7 +18,7 @@
 -->
 
 <p>
-  ⚡ A Bachelor Student And Tech enthusiast with a deep interest in Artificial Intelligence,Cloud Computing and Block Chain. Passionate towards Data Scientist with a focus on Python for Machine Learning, Deep learning for computer vision and Natural Language Processing and i believe there's still loads of things to explore. I love to put creativity and innovation in my work. I am deeply convinced that constant learning is the only way forward.
+  ⚡ A lifetime learner and tech savy with a deep interest in Artificial Intelligence,Cloud Computing and Block Chain. Passionate towards Data Scientist with a focus on Python for Machine Learning, Deep learning for computer vision and Natural Language Processing,LLMs and i believe there's still lots of things to explore. I love to put creativity and innovation in my work. I am deeply convinced that constant learning is the only way forward.
 </p>
 
 ## Key Skills
